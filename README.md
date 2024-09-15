@@ -1,8 +1,8 @@
 # Delta - Hack 2
 
-| Alias  | Integrante |
-| ------------- | ------------- |
-| Alfa  | Victor Apolinares  |
-| Charlie  | Laura |
-| Bravo | Andres |
-| Delta | Jose Serrano |
+| Alias  | Integrante | Ubicación |
+| ------------- | ------------- | ------------- |
+| Alfa  | Victor Apolinares  | Caracas |
+| Charlie  | Laura | Caracas |
+| Bravo | Andres | Caracas |
+| Delta | Jose Serrano | Charallave |
